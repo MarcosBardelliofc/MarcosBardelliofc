@@ -103,4 +103,4 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>

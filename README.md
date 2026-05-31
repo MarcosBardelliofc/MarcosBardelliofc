@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=header"/>
 
 <div align="center">
-<img src="https://www.freepnglogos.com/uploads/pokemon-png/pokemon-png-image-famous-anime-character-png-only-9.png" width="180px"/>
+<img src="https://banner2.cleanpng.com/20190504/hiv/kisspng-dialga-steel-video-games-bulbapedia-dragon-primal-dialga-wallpaper-wallpapersafari-5ccded149119e0.6775223915569994445943.jpg"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C77DFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Marcos+Bardelli+-+16y;From+Quatá+-+SP;Studying+Systems+Analysis+and+Development+ETEC;Welcome+to+my+GitHub!)](https://git.io/typing-svg)

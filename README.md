@@ -22,9 +22,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tsuywofc&show_icons=true&theme=midnight-purple&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MarcosBardelliofc&show_icons=true&theme=midnight-purple&hide_border=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsuywofc&layout=compact&theme=midnight-purple&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosbardelliofc&layout=compact&theme=midnight-purple&hide_border=true" height="180"/>
 
 </div>
 ---

@@ -15,10 +15,6 @@
 - 🎓 Studying Systems Analysis and Development  
 - 🚀 Passionate about technology  
 
----
-
-## 📊 GitHub Stats
-
 
 <div align="center">
 

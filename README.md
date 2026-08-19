@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C77DFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Marcos+Bardelli+-+16y;From+Quatá+-+SP;Studying+Systems+Analysis+and+Development+ETEC;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
----
+
 
 ## 💜 About Me
 
